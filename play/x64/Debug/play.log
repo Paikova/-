@@ -1,0 +1,2 @@
+﻿  mainplay.cpp
+LINK : fatal error LNK1561: точка входа должна быть определена
